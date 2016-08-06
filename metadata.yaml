@@ -1,0 +1,71 @@
+_repo: The-Persian-Literature-Comprising-The-Shah-Nameh-The-Rubaiyat-The-Divan-and-The-Gulistan-Volu__10315
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gottheil, Richard J. H. (Richard James Horatio)
+    alias: Gottheil, Richard James Horatio
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '5661'
+    url: http://www.gutenberg.org/2009/agents/5661
+  translators:
+  - agent_name: FitzGerald, Edward
+    alias: Purcell, Edward
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '138'
+    url: http://www.gutenberg.org/2009/agents/138
+    wikipedia: http://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+  - agent_name: Bicknell, Herman
+    birthdate: 1830
+    deathdate: 1875
+    gutenberg_agent_id: '39908'
+    url: http://www.gutenberg.org/2009/agents/39908
+  - agent_name: Atkinson, James
+    birthdate: 1780
+    deathdate: 1852
+    gutenberg_agent_id: '39906'
+    url: http://www.gutenberg.org/2009/agents/39906
+creator:
+  authors:
+  - agent_name: Omar Khayyam
+    alias: Khayyam, Omar
+    birthdate: 1048
+    deathdate: 1122
+    gutenberg_agent_id: '1787'
+    url: http://www.gutenberg.org/2009/agents/1787
+    wikipedia: http://en.wikipedia.org/wiki/Omar_Khayy%C3%A1m
+  - agent_name: Firdawsi
+    aliases:
+    - Firdusi
+    - Ferdousi
+    - Pheradausi
+    - Firdousi
+    - Fardusi
+    - Ferdowsi, Abol-Qasem
+    gutenberg_agent_id: '34995'
+    url: http://www.gutenberg.org/2009/agents/34995
+  - agent_name: Hāfiz, 14th cent.
+    aliases:
+    - Hafez
+    - Shams-ud-Din Mohammed
+    - Khorezmi, Khafiz
+    - Hafis
+    gutenberg_agent_id: '39907'
+    url: http://www.gutenberg.org/2009/agents/39907
+description: Volume 1 contains The Shah Nameh, The Rubaiyat, and The Divan.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Persian literature -- Translations into English'
+- !lcc 'PJ'
+- GITenberg
+title: The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan,
+  and The Gulistan, Volume 1
+url: http://www.gutenberg.org/ebooks/10315
